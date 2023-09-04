@@ -47,7 +47,8 @@ nav {
 }
 
 .nav-item:hover{
-    color: aqua;
+    background-color:cadetblue;
+    border-radius: 5px;
 }
 
 .nav-item:hover a{
